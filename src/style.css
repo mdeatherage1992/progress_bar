@@ -1,0 +1,14 @@
+/* 
+INSTRUCTIONS
+
+Recreate the linked image in HTML and CSS adding your own interactions. Some things to keep in mind when coding:
+
+- The "widget" may be used multiple times on the page
+- The logo image can be uploaded by the client so sizes may vary - we should do our best to maintain a uniform look across all instances of the widgets
+- Same thing applies to the name of the organization, the length may vary
+- It's themeable, the purple color is part of the theme and should be easy to change
+
+*/
+.container{ text-align: center; max-width: 400px; margin: 0 auto; }
+
+/* YOUR CSS GOES HERE */
