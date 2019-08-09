@@ -9,10 +9,8 @@ No restrictions on style or presentation, and feel free to use jQuery to your he
 
  */
 
- 
-$(document).ready(function(){
 
-});
+
 function move() {
   var elem = document.getElementById("myBar");
   var total_raised = document.getElementById("total_raised").innerHTML;
